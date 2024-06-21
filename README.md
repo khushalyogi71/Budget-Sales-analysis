@@ -10,6 +10,6 @@ Customers. Make the necessary dashboard with the best you can extract from the d
 ## Domain
 Retail & Sales
 ## Tools Used
-Power BI 
+Power BI , python
 ## Dataset
 "https://drive.google.com/file/d/1-frhqjoqohwOIO1zPxtuffqSmVF5LFYp/view?usp=share_link"
